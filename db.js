@@ -1,4 +1,4 @@
-const task = require("./data/items");
+const task = require("./data/task.json");
 const listas = require("./data/listas.json");
 const shoppinglist = require("./data/shoppinglist.json");
 const lunes = require("./data/lunesweek.json");
