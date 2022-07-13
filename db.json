@@ -1,0 +1,122 @@
+{
+  "Task": [
+    {
+      "title": "Viaje para el 20",
+      "id": 1
+    },
+    {
+      "title": "Entrar la ropa en la maleta",
+      "id": 2
+    },
+    {
+      "title": "Trip for the 20th",
+      "id": 3
+    }
+  ],
+  "Listas": [
+    {
+      "title": "study theoretical part of g financial",
+      "id": 1
+    }
+  ],
+  "Shoppinglist": [
+    {
+      "title": "Buy bread",
+      "id": 1
+    },
+    {
+      "title": "BEVERAGES",
+      "id": 2
+    },
+    {
+      "title": "FRUITS AND VEGETABLES",
+      "id": 3
+    },
+    {
+      "title": "CONDIMENTOS",
+      "id": 4
+    }
+  ],
+  "LunesWeek": [
+    {
+      "title": "go see the sunset with my girlfriend",
+      "id": 1
+    },
+    {
+      "title": "go to the supermarket",
+      "id": 2
+    }
+  ],
+  "MartesWeek": [
+    {
+      "title": "study the excel invoice",
+      "id": 1
+    },
+    {
+      "title": "go to the planetarium with alenny",
+      "id": 2
+    }
+  ],
+  "MiercolesWeek": [
+    {
+      "title": "organize room",
+      "id": 1
+    },
+    {
+      "title": "Videoconferencia meet Zurich",
+      "id": 2
+    },
+    {
+      "title": "study accounting topic 2",
+      "id": 3
+    }
+  ],
+  "JuevesWeek": [
+    {
+      "title": "Study the complete access database",
+      "id": 1
+    },
+    {
+      "title": "estudiar el tema 5 de contabilidad",
+      "id": 2
+    },
+    {
+      "title": "deep skin care",
+      "id": 3
+    }
+  ],
+  "ViernesWeek": [
+    {
+      "title": "Ask insurance management questions, fill them out to the letter",
+      "id": 1
+    },
+    {
+      "title": "study accounting topic 5",
+      "id": 2
+    },
+    {
+      "title": "go to the institute",
+      "id": 3
+    }
+  ],
+  "SabadoWeek": [
+    {
+      "title": "Review accounting issues",
+      "id": 1
+    },
+    {
+      "title": "Hacer ejercicios del tema uno de gestion financiera",
+      "id": 2
+    }
+  ],
+  "DomingoWeek": [
+    {
+      "title": "Rest",
+      "id": 1
+    },
+    {
+      "title": "Organizar semana en el calendario",
+      "id": 2
+    }
+  ]
+}
